@@ -1,0 +1,41 @@
+
+.schoolname{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: maroon;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+
+h2{ 
+    margin-left: 25px;
+    margin-top: 0%;
+    font-size: 15px;
+    font-style: italic;
+    font-weight:200px;
+    text-align: center;
+
+}
+
+table{
+    width: 100%;
+}
+
+table, th, td{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 1px solid black;
+    border-radius:10px;
+    background-color: rgb(241, 231, 219);
+}
+
+caption{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 2px;
+}
+
